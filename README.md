@@ -6,5 +6,7 @@
 > [C# Adventure Game](https://github.com/IKFARI01/Adventure-Game.io)
 
 ### **Tip Calculator**
-> A game that demonstrates calculation based procedures
-> [Tip Claculator]()
+> A program that demonstrates calculation based procedures
+> [Tip Claculator](https://ikfari01.github.io/TipCalculator.io/)
+
+### **g**

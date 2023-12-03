@@ -20,4 +20,4 @@
 
 ### **Create a Character**
 > A program that allows for the creation of a character
-> [Create A Character]((https://gist.github.com/IKFARI01/439150eccd377497e16375b0115333c4)https://gist.github.com/IKFARI01/439150eccd377497e16375b0115333c4)
+> [Create A Character](https://gist.github.com/IKFARI01/439150eccd377497e16375b0115333c4)https://gist.github.com/IKFARI01/439150eccd377497e16375b0115333c4)

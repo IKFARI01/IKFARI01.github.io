@@ -4,7 +4,7 @@
 ###  **Adventure Game: Midterm**
 > A game that demonstrates object oriented programming principles polymorphism, inheritance, and encapsulation.
 >
-> image
+> MDg3N2I5MmFiMDExYWVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.BymkhEnD2qfRX64UrTP-nNN1ji1d0pVlPV4wuNK8kV8
 > 
 > [C# Adventure Game Instructions](https://programmingisfun.com/learn/c-sharp-adventure-game/))
 > [C# Adventure Game](https://gist.github.com/IKFARI01/cc09a5b4459ae936b9876018da260b46))

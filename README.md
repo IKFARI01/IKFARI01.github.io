@@ -20,4 +20,4 @@
 
 ### **Create a Character**
 > A program that allows for the creation of a character
-> [Crazy Car Creation](https://gist.github.com/IKFARI01/cc09a5b4459ae936b9876018da260b46)
+> [Create A Character](https://gist.github.com/IKFARI01/cc09a5b4459ae936b9876018da260b46)

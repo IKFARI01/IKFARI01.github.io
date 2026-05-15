@@ -25,25 +25,25 @@ I am based in Chicago Illinois,  and will graduate Spring of 2027!
 
 ## Skills
 
-Unity
+- Unity
 
-Unreal Engine
+- Unreal Engine
 
-Maya
+- Maya
 
-C# and C++ Knowledge
+- C# and C++ Knowledge
 
-Level Design Skills
+- Level Design Skills
 
-Narrative Development
+- Narrative Development
 
-Interactive Prototyping
+- Interactive Prototyping
 
-Team Collaboration
+- Team Collaboration
 
-Game Design Principles
+- Game Design Principles
 
-Multimedia Writing
+- Multimedia Writing
 
-Scriptwriting
+- Scriptwriting
 

@@ -16,7 +16,7 @@ I am based in Chicago Illinois,  and will graduate Spring of 2027!
 
  [Khronos](Khronos.md)
 
- [Light The Way](LigthTheWay.md)
+ [Light The Way](LigtTheWay.md)
 
  [It That Seeps](ItThatSeeps.md)
 
